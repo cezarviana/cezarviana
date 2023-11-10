@@ -1,4 +1,4 @@
-### Hello there! 👋 <br><br> I'm Cezar Viana. <br><br> Welcome to my README!
+### Hello there! 👋 <br><br> I'm Cezar Viana (シーザーです。). <br><br> Welcome to my README!
 
 <p align="center">I ❤️ to studying code. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Nowadays, I'm studiyng <strong> to become a full stack developer</strong> focused on web development.</p>&nbsp;
 
