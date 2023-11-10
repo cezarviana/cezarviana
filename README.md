@@ -29,7 +29,7 @@
   <div style="display: inline_block"><br>
      <h2 align="center">Workstation Tools</h2>
         <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/notion.png">
+        <img align="center" height="40" width="40" alt="notion-icon" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/notion.png">
    </div>
   
 <div  align="center"> 
@@ -43,7 +43,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
      <h2 align="center">Social Media</h2>
-      <a href="https://www.instagram.com/czar_viana" target="_blank"><img height="25" width="25" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/instagram.svg"></a>
+      <a href="https://www.instagram.com/czar_viana" target="_blank"><img height="25" width="25" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/instagram.png"></a>
       <a href = "mailto:contato.cezar.viana@gmail.com"> <img height="25" width="30" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/gmail.svg" target="_blank"></a>
       <a href="https://www.linkedin.com/in/cezarviana-371b8226/" target="_blank"><img height="25" width="25" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/linkedin.svg"  target="_blank"></a> 
    </div>
