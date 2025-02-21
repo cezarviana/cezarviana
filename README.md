@@ -49,14 +49,15 @@
       <a href = "mailto:contato.cezar.viana@gmail.com"> <img height="35" width="40" src="./cezarviana/src/gmail.svg" target="_blank"></a>
       <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./cezarviana/src/linkedin.svg"  target="_blank"></a> 
    </div>
-    
+  
 
 <br><br>
-<!---
+
 <div  align="center" style="margin-bottom:100px">
 <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cezarviana&theme=tokyonight&mode=weekly"/>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/cezarviana/cezarviana/output/snake.svg" alt="Snake animation" />
+
 
