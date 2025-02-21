@@ -30,8 +30,8 @@
   <div style="display: inline_block"><br>
      <h2 align="center">Workstation Tools</h2>
         <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <img align="center" height="40" width="40" alt="notion-icon" src="./cezarviana/src/notion.png">
-        <img align="center" height="40" width="40" alt="notion-icon" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
+        <img align="center" height="40" width="40" alt="notion-icon" src="./src/notion.png">
+        <img align="center" height="40" width="40" alt="git-icon" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
    </div>
   
 <div  align="center"> 
