@@ -22,7 +22,7 @@
       <h1 align="center">My Skills</h1>
          <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" height="35" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         <img align="center" height="35" width="35" alt="css-icon" src="./cezarviana/src/css.png">
+         <img align="center" height="35" width="35" alt="css-icon" src="./src/css.png">
       </div>
    </div>
 
@@ -39,15 +39,15 @@
      <h2 align="center">Studying <3</h2>
          <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" height="35" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         <img align="center" height="35" width="35" alt="css-icon" src="./cezarviana/src/css.png">
+         <img align="center" height="35" width="35" alt="css-icon" src="./src/css.png">
    </div>
     
 <div  align="center"> 
   <div style="display: inline_block"><br>
      <h2 align="center">Social Media</h2>
-      <a href="https://www.instagram.com/czar_viana" target="_blank"><img height="35" width="35" src="./cezarviana/src/instagram.png"></a>
-      <a href = "mailto:contato.cezar.viana@gmail.com"> <img height="35" width="40" src="./cezarviana/src/gmail.svg" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./cezarviana/src/linkedin.svg"  target="_blank"></a> 
+      <a href="https://www.instagram.com/czar_viana" target="_blank"><img height="35" width="35" src="./src/instagram.png"></a>
+      <a href = "mailto:contato.cezar.viana@gmail.com"> <img height="35" width="40" src="./src/gmail.svg" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./src/linkedin.svg"  target="_blank"></a> 
    </div>
   
 
@@ -58,7 +58,9 @@
 
 <br>
 <picture>
+<!---
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cezarviana/cezarviana/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cezarviana/cerzarviana/output/github-snake.svg"/>
+  --->
   <img alt="github-snake" src="https://raw.githubusercontent.com/cezarviana/cezarviana/output/snake.svg" />
 </picture>
