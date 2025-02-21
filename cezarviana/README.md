@@ -52,7 +52,7 @@
     
 
 <br><br>
-
+<!---
 <div  align="center" style="margin-bottom:100px">
 <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cezarviana&theme=tokyonight&mode=weekly"/>
 
