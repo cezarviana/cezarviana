@@ -56,13 +56,9 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cezarviana&theme=tokyonight&mode=weekly"/>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cezarviana/cezarviana/output/snake.svg" alt="Snake animation" />
-
-
+<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cezarviana/cezarviana/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cezarviana/cerzarviana/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cezarviana/cezarviana/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cezarviana/cezarviana/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cezarviana/cerzarviana/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cezarviana/cezarviana/output/snake.svg" />
 </picture>
