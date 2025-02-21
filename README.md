@@ -22,7 +22,7 @@
       <h1 align="center">My Skills</h1>
          <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" height="35" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         <img align="center" height="35" width="35" alt="css-icon" src="./src/css.png">
+         <img align="center" height="35" width="35" alt="css-icon" src="./cezarviana/src/css.png">
       </div>
    </div>
 
@@ -30,7 +30,7 @@
   <div style="display: inline_block"><br>
      <h2 align="center">Workstation Tools</h2>
         <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <img align="center" height="40" width="40" alt="git-icon" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/notion.png">
+        <img align="center" height="40" width="40" alt="notion-icon" src="./cezarviana/src/notion.png">
         <img align="center" height="40" width="40" alt="notion-icon" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
    </div>
   
@@ -39,15 +39,15 @@
      <h2 align="center">Studying <3</h2>
          <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" height="35" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         <img align="center" height="35" width="35" alt="css-icon" src="./src/css.png">
+         <img align="center" height="35" width="35" alt="css-icon" src="./cezarviana/src/css.png">
    </div>
     
 <div  align="center"> 
   <div style="display: inline_block"><br>
      <h2 align="center">Social Media</h2>
-      <a href="https://www.instagram.com/czar_viana" target="_blank"><img height="35" width="35" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/instagram.png"></a>
-      <a href = "mailto:contato.cezar.viana@gmail.com"> <img height="35" width="40" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/gmail.svg" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="https://raw.githubusercontent.com/cezarviana/cezarviana/main/linkedin.svg"  target="_blank"></a> 
+      <a href="https://www.instagram.com/czar_viana" target="_blank"><img height="35" width="35" src="./cezarviana/src/instagram.png"></a>
+      <a href = "mailto:contato.cezar.viana@gmail.com"> <img height="35" width="40" src="./cezarviana/src/gmail.svg" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./cezarviana/src/linkedin.svg"  target="_blank"></a> 
    </div>
     
 
