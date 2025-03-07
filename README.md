@@ -1,3 +1,8 @@
+<div align="center">
+ <img  width=100% alt="coding-time" src="./src/header.png">
+</div>
+
+
 ### Hello there! 👋 <br><br> I'm Cezar Viana (シーザーです。). <br><br> Welcome to my README!
 
 <p align="center">I ❤️ studying code. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Nowadays, I'm studiyng <strong> to become a full stack developer</strong> focused on web development.</p>&nbsp;
@@ -65,3 +70,9 @@
   --->
   <img alt="github-snake" src="https://raw.githubusercontent.com/cezarviana/cezarviana/output/snake.svg" />
 </picture>
+
+<br>
+
+<div align="center">
+ <img  width=100% alt="coding-time" src="./src/footer.png">
+</div>
