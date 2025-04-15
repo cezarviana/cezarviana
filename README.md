@@ -3,9 +3,34 @@
 </div>
 
 
-### Hello there! 👋 <br><br> I'm Cezar Viana (シーザーです。). <br><br> Welcome to my README!
+### <> Hello World! <> 👋😀 <br><br> I'm Cezar Viana (ヴィアナシーザーです。). <br><br> Seja muito bem vindo ao meu README! 🔥
 
-<p align="center">I ❤️ studying code. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Nowadays, I'm studiyng <strong> to become a full stack developer</strong> focused on web development.</p>&nbsp;
+<br>
+
+<p align="center"><strong>Estou ❤️ estudar códigos e programação. 💻</strong></p><br>
+
+<div style="text-align: justify">
+<p>Adoro jogos, ler livros e quadrinhos, ver filmes e praticar artes marciais. 👾🎮📚🎥🙇
+
+<strong>Sempre fui um apaixonado e curioso pela área de tecnologia</strong>, eventualmente, executei como autônomo manutenção, reparos e consertos em computadores e notebooks. E como essa paixão e oportunidade coincidiram decidi fazer a transição para a área de desenvolvimento e programação.
+
+<strong>Quero me dedicar à área de desenvolvimento</strong>, criei projetos utilizando tecnologias de frontend, HTML, CSS e JavaScript. Quero aprender mais sobre a área de desenvolvimento, e aplicar meu conhecimento para gerar melhorias e soluções para problemas, contribuindo tanto com os meus pares, quanto com a empresa. Além de aprender e me desenvolver na área de programação.
+
+Atualmente, estou adorando estudar programação, através do <strong>Curso Dev em Dobro Desenvolvimento Full Stack, com Mentoria e Suporte</strong>, no momento <strong>estou estudando HTML, CSS, JavaScript e Clean Code</strong>. 
+
+Estou adorando essa nova jornada e cada passo tem sido muito gratificante!
+
+<strong>Estou disponível para bater um papo!!! 👈</strong>
+</div>
+
+<div align="center">
+👇
+
+<a href = "mailto:contato.cezar.viana@gmail.com"> <img height="35" width="40" src="./src/gmail.svg" target="_blank"></a> <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./src/linkedin.svg"  target="_blank"></a> 
+
+Email: cezar.viana@gmail.com
+</div>
+
 
 <div align="center">
  <img  height="250" alt="coding-time" src="./src/coding.gif">
@@ -55,24 +80,15 @@
       <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./src/linkedin.svg"  target="_blank"></a> 
    </div>
   
-
-
-<!---
+ <br><br> 
 <div  align="center" style="margin-bottom:100px">
 <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cezarviana&theme=tokyonight&mode=weekly"/>
---->
 
 <br>
 <picture>
-<!---
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cezarviana/cezarviana/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cezarviana/cerzarviana/output/github-snake.svg"/>
-  --->
   <img alt="github-snake" src="https://raw.githubusercontent.com/cezarviana/cezarviana/output/snake.svg" />
 </picture>
 
-<br>
 
-<div align="center">
  <img  width=100% alt="coding-time" src="./src/footer.png">
 </div>
