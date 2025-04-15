@@ -40,8 +40,12 @@ Email: cezar.viana@gmail.com
 
 <div align="center">
    <a href="https://github.com/cezarviana">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cezarviana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarviana&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cezarviana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarviana&layout=compact&langs_count=6&theme=dracula"/>
+
+   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cezarviana&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cezarviana&theme=dracula&mode=weekly"/>
+   
 </div>
 
 <br><br>
@@ -80,9 +84,10 @@ Email: cezar.viana@gmail.com
       <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./src/linkedin.svg"  target="_blank"></a> 
    </div>
   
+<br>
 
 <div  align="center" style="margin-bottom:100px">
-<!-- <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cezarviana&theme=tokyonight&mode=weekly"/> -->
+
 
 
 <picture>
