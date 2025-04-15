@@ -9,8 +9,8 @@
 
 <p align="center"><strong>Estou ❤️ estudar códigos e programação. 💻</strong></p><br>
 
-<div style="text-align: justify">
-<p>Adoro jogos, ler livros e quadrinhos, ver filmes e praticar artes marciais. 👾🎮📚🎥🙇
+<div style="text-align: justify;" >
+<p>Adoro jogos, ler livros e quadrinhos, ver filmes e praticar artes marciais. 👾🎮📖📚🎥🙇
 
 <strong>Sempre fui um apaixonado e curioso pela área de tecnologia</strong>, eventualmente, executei como autônomo manutenção, reparos e consertos em computadores e notebooks. E como essa paixão e oportunidade coincidiram decidi fazer a transição para a área de desenvolvimento e programação.
 
@@ -80,11 +80,11 @@ Email: cezar.viana@gmail.com
       <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./src/linkedin.svg"  target="_blank"></a> 
    </div>
   
- <br><br> 
-<div  align="center" style="margin-bottom:100px">
-<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cezarviana&theme=tokyonight&mode=weekly"/>
 
-<br>
+<div  align="center" style="margin-bottom:100px">
+<!-- <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cezarviana&theme=tokyonight&mode=weekly"/> -->
+
+
 <picture>
   <img alt="github-snake" src="https://raw.githubusercontent.com/cezarviana/cezarviana/output/snake.svg" />
 </picture>
