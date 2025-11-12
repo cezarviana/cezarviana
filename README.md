@@ -3,7 +3,7 @@
 </div>
 
 
-### <> Hello World! <> 👋😀 <br><br> I'm Cezar Viana (ヴィアナシーザーです。). <br><br> Seja muito bem vindo ao meu README! 🔥
+### <> Hello World! </> 👋😀 <br><br> I'm Cezar Viana (ヴィアナシーザーです。). <br><br> Seja muito bem vindo ao meu README! 🔥
 
 <br>
 
