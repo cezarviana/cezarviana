@@ -26,7 +26,7 @@ Estou adorando essa nova jornada e cada passo tem sido muito gratificante!
 <div align="center">
 👇
 
-<a href = "mailto:contato.cezar.viana@gmail.com"> <img height="35" width="40" src="./src/gmail.svg" target="_blank"></a> <a href="https://www.linkedin.com/in/cezar-viana-dev/" target="_blank"><img height="35" width="35" src="./src/linkedin.svg"  target="_blank"></a> 
+<a href = "mailto:contato.cezar.viana@gmail.com"> <img height="35" width="40" src="./src/gmail.svg" target="_blank"></a> <a href="https://www.linkedin.com/in/cezarviana-dev/" target="_blank"><img height="35" width="35" src="./src/linkedin.svg"  target="_blank"></a> 
 
 Email: cezar.viana@gmail.com
 </div>
